@@ -1,0 +1,17 @@
+:local {
+  .bar {
+    width: 100%;
+    background-color: #f1f1f1;
+    font-weight: 700;
+    font-size: 14px;
+    border-top: 2px solid #dadada;
+    border-bottom: 2px solid #dadada;
+
+    .content {
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 5px 0;
+    }
+  }
+}
